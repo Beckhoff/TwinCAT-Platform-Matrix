@@ -10,7 +10,6 @@ Use it to pick the correct platform for your device when configuring a TwinCAT C
 | TwinCAT OS (ARMV8-A) | TwinCAT OS (ARMV8-A) | Linux | CX8200, CX9240 | ARM Cortex-A53 | Clang | ELF |
 | TwinCAT OS (x64) | TwinCAT OS (x64) | Windows, TC/BSD | Industrial PC | x86-64 | MSVC / Clang | PE |
 | TwinCAT OS (x64-E) | TwinCAT OS (x64-E) | Linux | Industrial PC | x86-64 | Clang | ELF |
-| TwinCAT OS (x86) | TwinCAT OS (x86) | Windows | Industrial PC | x86 | MSVC / Clang | PE |
 | TwinCAT RT (x64) | TwinCAT RT (x64) | Windows (kernel) | Industrial PC | x86-64 | MSVC | PE |
 | TwinCAT RT (x86) | TwinCAT RT (x86) | Windows (kernel) | Industrial PC | x86 | MSVC | PE |
 
